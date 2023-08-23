@@ -1,0 +1,1 @@
+Poc en GCP para balizar una arquitectura Activa / Pavisa con recursos serverless (Cloud Run)
